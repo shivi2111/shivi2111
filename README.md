@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivi2111
+- 👋 Hi, I’m Shivam kumar.
 - 👀 I’m interested in data scientist
 - 🌱 I’m currently learning all the things required to become a data analyst/scientist
 - 💞️ I’m looking to collaborate on any project related to data analyst.
