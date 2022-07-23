@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivam kumar.
-- 👀 I’m interested in data scientist
-- 🌱 I’m currently learning all the things required to become a data analyst/scientist
-- 💞️ I’m looking to collaborate on any project related to data analyst.
+- 👀 I’m interested in development.
+- 🌱 I’m currently learning all the things required to become a developer.
+- 💞️ I’m looking to collaborate on any project related to web development.
 - 📫 How to reach me IG- shivi_4349
 
 <!---
